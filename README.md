@@ -84,13 +84,3 @@ This repository is provided primarily as engineering documentation.
 Ignition-system modification involves high-voltage electrical systems and engine operation. Hardware implementation and testing should be performed with appropriate technical knowledge and safety precautions.
 
 ZTS — Build Not Bought.
-
-## Repository Structure
-
-```text
-ZTS-DC-CDI-Series/
-│
-├── firmware/
-│   └── .gitkeep
-│
-└── README.md
