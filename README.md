@@ -77,6 +77,14 @@ The CDI has been produced and sold in small quantities.
 
 Additional hardware documentation, firmware versions, testing data, wiring information, and project photographs will be added progressively.
 
+## Disclaimer
+
+This repository is provided primarily as engineering documentation.
+
+Ignition-system modification involves high-voltage electrical systems and engine operation. Hardware implementation and testing should be performed with appropriate technical knowledge and safety precautions.
+
+ZTS — Build Not Bought.
+
 ## Repository Structure
 
 ```text
@@ -86,11 +94,3 @@ ZTS-DC-CDI-Series/
 │   └── .gitkeep
 │
 └── README.md
-
-Disclaimer
-
-This repository is provided primarily as engineering documentation.
-
-Ignition-system modification involves high-voltage electrical systems and engine operation. Hardware implementation and testing should be performed with appropriate technical knowledge and safety precautions.
-
-ZTS — Build Not Bought.
