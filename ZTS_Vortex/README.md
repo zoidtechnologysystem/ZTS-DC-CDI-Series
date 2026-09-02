@@ -90,4 +90,4 @@ Below is the structured predefined timing curve profile (`ignition_maps`) paired
 *This firmware manipulates critical ignition parameters of high-speed internal combustion engines in real-time. Unstable ignition map values or sustained usage of hard-cut limiters present severe risks of engine knocking, detonation, and catastrophic mechanical engine failure. Always validate your firmware behavior with an oscilloscope or engine simulator before deployment to a live high-voltage ignition coil.*
 
 ---
-**ZOID TECHNOLOGY SYSTEM © 2021**
+**ZOID TECHNOLOGY SYSTEM © 2022**
