@@ -86,4 +86,4 @@ Below is the structured predefined timing curve profile (`map0`) paired with its
 *This firmware is created strictly for educational, research, and development purposes in automotive electronics control units. Writing an unstable or overly advanced ignition map poses severe risks of engine knocking, detonation, and catastrophic mechanical engine failure.*
 
 ---
-**ZOID TECHNOLOGY SYSTEM © 2021**
+**ZOID TECHNOLOGY SYSTEM © 2022**
