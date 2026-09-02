@@ -1,6 +1,6 @@
 # Zoid Technology System: Advanced Embedded Ignition System (ECU/CDI)
 
-A high-performance, bare-metal embedded firmware ecosystem custom-built for motorcycle racing (Grasstrack/Dirt Bike). Developed from 2021 to 2026, this project showcases the evolution from linear-polling architecture to advanced asynchronous, interrupt-driven multi-mapping execution on 8-bit AVR microcontrollers (ATmega328P).
+A high-performance, bare-metal embedded firmware ecosystem custom-built for motorcycle racing. Developed from 2021 to 2026, this project showcases the evolution from linear-polling architecture to advanced asynchronous, interrupt-driven multi-mapping execution on 8-bit AVR microcontrollers (ATmega328P).
 
 <img width="720" height="540" alt="IMG_20250301_165703" src="https://github.com/user-attachments/assets/5e9f07eb-efbd-4f53-92d2-54ef053ec175" />
 
