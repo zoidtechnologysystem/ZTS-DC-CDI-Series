@@ -2,9 +2,7 @@
 
 A high-performance, bare-metal embedded firmware ecosystem custom-built for motorcycle racing. Developed from 2021 to 2026, this project showcases the evolution from linear-polling architecture to advanced asynchronous, interrupt-driven multi-mapping execution on 8-bit AVR microcontrollers (ATmega328P).
 
-<img width="1080" height="1080" alt="20220718_135703" src="https://github.com/user-attachments/assets/01e5d8a6-0a98-42f5-9d2f-040ba5bab3ad" />
 <img width="720" height="540" alt="20230301_182512" src="https://github.com/user-attachments/assets/e9e838cd-dda6-4a89-b130-f900c9c9e0a9" />
-<img width="1080" height="608" alt="20220718_165302" src="https://github.com/user-attachments/assets/5ef28a7d-db55-4d19-83f7-bcab8ad99228" />
 
 ## 🏆 Track Proven Resilience
 The **Shadow Master** firmware architecture within this ecosystem has been rigorously tested in competitive regional racing, securing multiple podium finishes (1st, 2nd, and 3rd places) due to its high deterministic loop rate and noise-immune state polling architecture.
