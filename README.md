@@ -20,4 +20,4 @@ The **Shadow Master (2024)** firmware architecture within this ecosystem has bee
 5.  **Andromeda (2025 - Flagship):** Expanded to 6 distinct fuel-curve matrices (up to Nitro Race grade) and digital multi-limiter sequences using time-decoupled button state machines.
 
 ---
-*Developed by ZOID TECHNOLOGY SYSTEM. Engineered for the podium.*
+*Developed by ZOID TECHNOLOGY SYSTEM*
