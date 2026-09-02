@@ -25,7 +25,7 @@ The firmware runs at a core frequency of **16 MHz** (`F_CPU = 16000000UL`) with 
 | **Pulse Input (Pulser)** | Magneto sensor pulse trigger (Falling-edge, Input Capture Noise Canceler active) | **PB0 / ICP1** | Digital Pin 8 |
 | **CDI Trigger Output** | Dual-channel synchronized pulse to trigger the CDI SCR | **PD4 & PD5** | Digital Pin 4 & 5 |
 | **Auxiliary / Indicator** | Internal input configuration with pull-up enabled | **PD6** | Digital Pin 6 |
-| **Timer 1 Prescaler** | Set to **64** (`CS11` & `CS10`) | Frekuensi: **250 kHz** | 1 Tick = 4 µs |
+| **Timer 1 Prescaler** | Set to **64** (`CS11` & `CS10`) | Frequency: **250 kHz** | 1 Tick = 4 µs |
 
 ---
 
