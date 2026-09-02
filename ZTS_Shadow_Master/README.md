@@ -93,4 +93,4 @@ The matrix below illustrates the mapped engine timing degrees (`ignition_maps`) 
 *This firmware directly alters internal combustion behavior. Sustained usage of aggressive hard-cut rev limiters, extreme anti-lag adjustments, or poorly tuned timing advance tables can cause intense engine knocking, thermal degradation, physical valve train collisions, and catastrophic block failures. Always analyze CDI behavioral outputs using an oscilloscope or test bench simulation before driving physical ignition components.*
 
 ---
-**ZOID TECHNOLOGY SYSTEM © 2022**
+**ZOID TECHNOLOGY SYSTEM © 2023**
