@@ -97,4 +97,4 @@ The `limiter_sequence` cycles through the following values on each push-button t
 *This firmware directly controls high-performance internal combustion engine parameters. Sustained deployment of aggressive ignition advances (e.g., Maps 4 & 5) on low-octane fuels, or prolonged activation of hard-cut rev limiters, will cause extreme engine knocking, thermal degradation, physical valve-to-piston collisions, and total engine block failure. Always analyze CDI behavioral outputs using an oscilloscope before live testing.*
 
 ---
-**ZOID TECHNOLOGY SYSTEM © 2026**
+**ZOID TECHNOLOGY SYSTEM © 2025**
